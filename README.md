@@ -7,11 +7,11 @@ So, the manufacturer designs their vehicle as they want and import Tyre from its
 They don’t need to design Tyre all the time. Once they designed the model and use it various times. 
 Aim is to create a Scooter and Car vehicle where the Tyre is being inherited from vehicle class.
 
-
 # PROGRAM:
-
-## DEVELOPED BY : Yogabharathi S
-## REG NO: 212222230179
+```
+DEVELOPED BY : Yogabharathi S
+REG NO: 212222230179
+```
 ```
 using System;
 
