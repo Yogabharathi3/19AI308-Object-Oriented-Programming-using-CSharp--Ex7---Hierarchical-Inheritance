@@ -6,7 +6,27 @@ To write a C# program to implement heirarchical inheritance for the following pr
 So, the manufacturer designs their vehicle as they want and import Tyre from its base class and fit it into Wheels. 
 They don’t need to design Tyre all the time. Once they designed the model and use it various times. 
 Aim is to create a Scooter and Car vehicle where the Tyre is being inherited from vehicle class.
+## ALGORITHM :
 
+### Step 1 :
+
+Define a base class 'Vehicle' with a method 'tyre' to describe tyres.
+
+### Step 2 :
+
+Create a 'Scooter' class inheriting 'Vehicle', with a method 'Display' and 'tyres'.
+
+### Step 3 :
+
+Implement 'Display' to show class type and call base 'tyre'.
+
+### Step 4 :
+
+Similarly, make a 'Car' class inheriting 'Vehicle', with a 'Display' method.
+
+### Step 5 :
+
+Instantiate Car' and 'Scooter', call 'Display' with respective tyre counts.
 # PROGRAM:
 ```
 DEVELOPED BY : Yogabharathi S
